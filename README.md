@@ -24,3 +24,5 @@ Things you may want to cover:
 * ...
 
 * Testing out commits
+
+* First test repo on AWS with Ruby.
